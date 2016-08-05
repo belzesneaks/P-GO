@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 
 class PGoApi:
 
-    API_ENTRY = 'https://pgorelease.nianticlabs.com/plfe/rpc'
+    API_ENTRY = 'https://pokemongorelease.nianticlabs.com/plfe/rpc'
 
     def __init__(self):
     
